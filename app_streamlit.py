@@ -13,8 +13,6 @@ from PIL import Image
 import os
 from pathlib import Path
 
-from tensorboard.summary.v1 import image_pb
-
 # Configuración de la página
 st.set_page_config( page_title="Predicción de Temperaturas con LSTM", page_icon="🌡️", layout="wide", initial_sidebar_state="expanded")
 

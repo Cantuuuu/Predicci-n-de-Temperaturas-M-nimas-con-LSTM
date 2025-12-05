@@ -436,7 +436,7 @@ proyecto_final/
 ├── requirements.txt                # Dependencias Python
 ├── README.md                       # Documentación general
 └── reporte/
-    └── REPORTE_TECNICO.md         # Este documento
+    └── reporte.md         # Este documento
 ```
 
 ### B . Instrucciones de Reproducibilidad

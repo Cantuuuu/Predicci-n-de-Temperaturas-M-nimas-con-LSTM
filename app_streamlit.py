@@ -44,6 +44,13 @@ st.markdown("""
         padding: 1rem 2rem;
         background-color: #f0f2f6;
         border-radius: 5px;
+        color: #000000 !important;
+    }
+    .stTabs [data-baseweb="tab"] button {
+        color: #000000 !important;
+    }
+    .stTabs [data-baseweb="tab"] button p {
+        color: #000000 !important;
     }
     </style>
 """, unsafe_allow_html=True)
